@@ -25,8 +25,8 @@ feature:
   icon_pack: fas
   name: Shell
 - description: 
-  icon: camera-retro
-  icon_pack: far
+  icon: bash
+  icon_pack: custom
   name: Verilog
 
 # Uncomment to use emoji icons.
