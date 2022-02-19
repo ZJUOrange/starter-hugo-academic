@@ -61,7 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-Xu Zhicheng is a studuent of Microelectronics Science and Engineering at the Zhejiang University. His research interests include Digital integrated circuit, Low-power design and FPGA.
+Xu Zhicheng is a studuent majoring in Microelectronics Science and Engineering at the Zhejiang University. He got a GPA of 89.7/100 in his past study. His research interests include Digital integrated circuit, Low-power design and FPGA.
 
 He has one scientific research experiences about FFT transform based on approximate multiplier and one paper accepted by CSTIC 2022.
 
