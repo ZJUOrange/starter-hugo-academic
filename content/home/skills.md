@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 
   icon: C
-  icon_pack: fas
+  icon_pack: far
   name: C
 - description: 
   icon: chart-line
@@ -26,7 +26,7 @@ feature:
   name: Shell
 - description: 
   icon: camera-retro
-  icon_pack: fas
+  icon_pack: far
   name: Verilog
 
 # Uncomment to use emoji icons.
