@@ -27,7 +27,7 @@ feature:
 - description: 
   icon: camera-retro
   icon_pack: Verilog
-  name: Photography
+  name: Verilog
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
