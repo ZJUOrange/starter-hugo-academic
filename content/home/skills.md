@@ -19,7 +19,7 @@ feature:
 - description: 
   icon: r-project
   icon_pack: fab
-  name: Perl
+  name: C
 - description: 
   icon: chart-line
   icon_pack: fas
