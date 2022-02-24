@@ -18,7 +18,7 @@ content:
 design:
   columns: '2'
   # Email form provider
-  form:
+form:
     provider: formspree
     formspree:
       id: 3190103241@zju.edu.cn
