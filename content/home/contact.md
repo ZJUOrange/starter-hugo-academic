@@ -20,7 +20,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: test
+      id: 3190103241@zju.edu.cn
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
