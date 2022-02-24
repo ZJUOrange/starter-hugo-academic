@@ -17,4 +17,12 @@ content:
   autolink: true
 design:
   columns: '2'
+  # Email form provider
+  form:
+    provider: formspree
+    formspree:
+      id: 3190103241@zju.edu.cn
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
 ---
