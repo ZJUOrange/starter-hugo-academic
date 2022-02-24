@@ -15,14 +15,16 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-design:
-  columns: '2'
+  
   # Email form provider
-form:
+  form:
     provider: formspree
     formspree:
-      id: 3190103241@zju.edu.cn
+      id: test
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
+  
+design:
+  columns: '2'
 ---
